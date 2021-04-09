@@ -28,7 +28,10 @@ img{
     flex-basis: 280px;
     background:rgb(236, 202, 48);
     height: 400px;
-    transition:0.3s all ease
+    
+
+    /* new attribitute is transition */
+    transition:1s all ease
 
 }
 .image_area{
