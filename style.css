@@ -57,7 +57,7 @@ img{
 
 /* work section css */
 .work_wraper{
-    height: 250px;
+    padding:4%;
     color:wheat;
     display: flex;
     flex-direction: column;
