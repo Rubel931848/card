@@ -56,3 +56,14 @@ img{
 .c:hover{
     background: white;
 }
+
+/* work section css */
+.work_wraper{
+    height: 250px;
+    color:wheat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
