@@ -27,7 +27,7 @@ img{
     align-items: center;
     flex-basis: 280px;
     background:rgb(236, 202, 48);
-    height: 400px;
+   
 }
 .image_area{
     display: flex;
